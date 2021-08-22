@@ -1,6 +1,4 @@
-# DSA-AnalysisAndDesign
-
-# Course Reflection
+# DSA-AnalysisAndDesign: Course Reflection
 Included is the pseudocode, run-time complexities, source code, and output for Project 2.
 Project 2 Description: Store data from a .csv file into a structure of choice, print all the data, and locate a passed value.
 
