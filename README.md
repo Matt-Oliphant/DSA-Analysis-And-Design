@@ -15,4 +15,4 @@ Project 2 Description: Store data from a .csv file into a structure of choice, p
   * I was able to practice more with flow charts and pseudocode, and was introduced to C++. I will consider the time and space complexity to determine the best data structure to use. I will also continue to gain a deeper understanding of a particular problem by using UML diagrams, flow charts, and pseudocode before writing source code.
 
 **How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?**
-  *The work on the projects evolved the way I leave comments and the way I create functions. It’s useful to create overloaded methods or constructors to provide adaptability. Writing code that that is adaptable and is properly commented usually means it more maintainable. 
+  * The work on the projects evolved the way I leave comments and the way I create functions. It’s useful to create overloaded methods or constructors to provide adaptability. Writing code that that is adaptable and is properly commented usually means it more maintainable. 
